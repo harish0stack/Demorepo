@@ -1,4 +1,4 @@
-
-this my new repo designed for lab practical 
-my first project
-
+HI EVERYONE
+"This my new repo designed for github lab practical"
+"My first project"
+"This my new repo designed for github lab practical "
